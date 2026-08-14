@@ -29,7 +29,7 @@ Atualmente, busco oportunidades iniciais em **desenvolvimento de software ou aut
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/LuanPereiradaCosta">
-    <img height="180" align="center" src="https://github-stats-extended.vercel.app/api?username=LuanPereiradaCosta&show_icons=true&include_all_commits=true&locale=pt-br&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="Estatísticas do GitHub"/>
+    <img height="180" align="center" src="https://github-stats-extended.vercel.app/api?username=LuanPereiradaCosta&show_icons=true&include_all_commits=true&locale=pt-br&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&hide_rank=true" alt="Estatísticas do GitHub"/>
   </a>
 
 </p>
