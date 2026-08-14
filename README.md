@@ -21,11 +21,6 @@ Atualmente, busco oportunidades iniciais em **desenvolvimento de software ou aut
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code" title="Visual Studio Code" width="45" height="45"/>
 </p>
 
-## Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-pereira-da-costa-333b433b0/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=luanpereiradacosta8@gmail.com)
-
 ## Estatísticas do GitHub
 
 <p align="center">
@@ -38,3 +33,9 @@ Atualmente, busco oportunidades iniciais em **desenvolvimento de software ou aut
   </a>
 
 </p>
+
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-pereira-da-costa-333b433b0/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=luanpereiradacosta8@gmail.com)
+
