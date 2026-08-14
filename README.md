@@ -21,6 +21,24 @@ Atualmente, busco oportunidades iniciais em **desenvolvimento de software ou aut
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code" title="Visual Studio Code" width="45" height="45"/>
 </p>
 
+## Projetos em destaque
+
+### [Atlas Contabilidade Digital](https://github.com/LuanPereiradaCosta/landingpage_atlas)
+
+Landing page institucional responsiva desenvolvida para uma empresa de contabilidade, com páginas de serviços e especialidades, navegação responsiva, animações e integração com WhatsApp.
+
+**Tecnologias:** HTML, CSS e JavaScript
+
+**Status:** protótipo funcional aguardando validação dos conteúdos e imagens institucionais antes do deploy.
+
+### [Estacionamento Inteligente com ESP32](https://github.com/LuanPereiradaCosta/estacionamento_inteligente)
+
+Protótipo acadêmico que integra uma maquete física, ESP32, sensor, servo, painel web e API FastAPI para monitorar uma vaga e controlar a abertura da catraca.
+
+**Tecnologias:** Python, FastAPI, JavaScript, HTML, CSS, JSON e ESP32
+
+**Destaque:** desenvolvimento do software utilizado no projeto realizado por uma equipe de três integrantes.
+
 ## Estatísticas do GitHub
 
 <p align="center">
