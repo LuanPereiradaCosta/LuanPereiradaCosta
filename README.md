@@ -39,19 +39,6 @@ Protótipo acadêmico que integra uma maquete física, ESP32, sensor, servo, pai
 
 **Destaque:** desenvolvimento do software utilizado no projeto realizado por uma equipe de três integrantes.
 
-## Estatísticas do GitHub
-
-<p align="center">
-  <a href="https://github.com/LuanPereiradaCosta">
-    <img height="180" align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=LuanPereiradaCosta&layout=compact&langs_count=8&locale=pt-br&size_weight=0.5&count_weight=0.5&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="Linguagens mais usadas nos repositórios"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/LuanPereiradaCosta">
-    <img height="180" align="center" src="https://github-stats-extended.vercel.app/api?username=LuanPereiradaCosta&show_icons=true&include_all_commits=true&locale=pt-br&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&hide_rank=true" alt="Estatísticas do GitHub"/>
-  </a>
-
-</p>
-
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-pereira-da-costa-333b433b0/)
