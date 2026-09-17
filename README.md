@@ -25,11 +25,13 @@ Atualmente, busco oportunidades iniciais em **desenvolvimento de software ou aut
 
 ### [Atlas Contabilidade Digital](https://github.com/LuanPereiradaCosta/landingpage_atlas)
 
-Landing page institucional responsiva desenvolvida para uma empresa de contabilidade, com páginas de serviços e especialidades, navegação responsiva, animações e integração com WhatsApp.
+Site institucional desenvolvido para a Atlas Contabilidade Digital, com páginas de serviços e especialidades, navegação responsiva, animações e integração com WhatsApp.
 
 **Tecnologias:** HTML, CSS e JavaScript
 
-**Status:** protótipo funcional aguardando validação dos conteúdos e imagens institucionais antes do deploy.
+**Status:** concluído e publicado em produção.
+
+🌐 [atlascontabilidade.com.br](https://atlascontabilidade.com.br)
 
 ### [Estacionamento Inteligente com ESP32](https://github.com/LuanPereiradaCosta/estacionamento_inteligente)
 
