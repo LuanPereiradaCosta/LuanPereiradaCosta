@@ -1,48 +1,44 @@
-# Prazer, sou Luan Pereira da Costa! 👋
+# Luan Pereira da Costa
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, atualmente no 2º semestre.
+**Desenvolvimento de Software | Automação**
 
-Estou construindo minha carreira em tecnologia, com foco em **desenvolvimento**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas na Estácio de Sá**, no 2º semestre, com conclusão prevista para julho de 2028. Ingressei por transferência após concluir o 1º semestre na Faculdade Municipal de Palhoça (FMP).
 
-Tenho experiência prática em projetos utilizando Python, Playwright, FastAPI, APIs REST, HTML, CSS e JavaScript. Também possuo experiência profissional com suporte de TI, sistemas internos, Windows e resolução de problemas técnicos.
+Na **Atlas Contabilidade Digital**, meu cargo oficial é **Operador Auxiliar de Teleprocessamentos**. Desenvolvo automações em Python e soluções internas para rotinas administrativas e contábeis, além de atuar com suporte de TI. Também desenvolvi o site institucional da empresa, atualmente em produção.
 
-Atualmente, busco oportunidades iniciais em **desenvolvimento de software ou automação**, presenciais na Grande Florianópolis, híbridas ou remotas.
+Busco oportunidades iniciais em **desenvolvimento de software, backend e automação**, presenciais na Grande Florianópolis, híbridas ou remotas.
 
-## Tecnologias e ferramentas
+## Tecnologias utilizadas em projetos
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="Playwright" title="Playwright" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code" title="Visual Studio Code" width="45" height="45"/>
-</p>
+- **Web:** HTML, CSS, JavaScript, responsividade, DOM, Flexbox e CSS Grid.
+- **Python e backend:** Python, FastAPI, APIs REST, requisições HTTP, JSON e manipulação de arquivos.
+- **Automação:** Playwright, automação de navegadores, integração com APIs externas, planilhas e geração de documentos.
+- **Ferramentas:** Git, GitHub, VS Code e terminal.
 
-## Projetos em destaque
+## Projetos profissionais
 
-### [Atlas Contabilidade Digital](https://github.com/LuanPereiradaCosta/landingpage_atlas)
+### [Site institucional — Atlas Contabilidade Digital](https://github.com/LuanPereiradaCosta/landingpage_atlas)
 
-Site institucional desenvolvido para a Atlas Contabilidade Digital, com páginas de serviços e especialidades, navegação responsiva, animações e integração com WhatsApp.
+Site desenvolvido com **HTML, CSS e JavaScript**, com páginas de serviços e especialidades, layout responsivo, componentes interativos e integração com WhatsApp. Também produzi e preparei as fotografias institucionais e trabalhei na otimização das imagens para a web.
 
-**Tecnologias:** HTML, CSS e JavaScript
+**Status:** publicado em produção. A publicação no servidor corporativo contou com apoio do responsável pela infraestrutura.
 
-**Status:** concluído e publicado em produção.
+[Visitar o site](https://atlascontabilidade.com.br)
 
-🌐 [atlascontabilidade.com.br](https://atlascontabilidade.com.br)
+### Sistema interno de preenchimento de contratos
+
+Aplicação interna em desenvolvimento para preenchimento de contratos a partir de dados do Questor e informações complementares importadas por planilhas. O fluxo inclui revisão dos dados antes da geração e exportação em Word/PDF.
+
+**Contexto:** projeto profissional interno da Atlas Contabilidade Digital.
+
+## Projeto acadêmico
 
 ### [Estacionamento Inteligente com ESP32](https://github.com/LuanPereiradaCosta/estacionamento_inteligente)
 
-Protótipo acadêmico que integra uma maquete física, ESP32, sensor, servo, painel web e API FastAPI para monitorar uma vaga e controlar a abertura da catraca.
+Protótipo realizado em equipe de três integrantes para monitorar uma vaga e controlar a catraca. Desenvolvi o software: painel web, API FastAPI e rotas de consulta e atualização. O firmware do ESP32 foi desenvolvido por outro integrante.
 
-**Tecnologias:** Python, FastAPI, JavaScript, HTML, CSS, JSON e ESP32
-
-**Destaque:** desenvolvimento do software utilizado no projeto realizado por uma equipe de três integrantes.
+**Tecnologias do software:** Python, FastAPI, JavaScript, HTML, CSS e JSON.
 
 ## Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-pereira-da-costa-333b433b0/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=luanpereiradacosta8@gmail.com)
-
+[LinkedIn](https://www.linkedin.com/in/luan-pereira-da-costa-333b433b0/) · [E-mail](mailto:luanpereiradacosta8@gmail.com)
